@@ -1,0 +1,266 @@
+{
+  "Filmy i seriale": [
+    {
+      "question": "Kto zagrał główną rolę w filmie „Titanic”?",
+      "answers": ["Brad Pitt", "Leonardo DiCaprio", "Johnny Depp", "Tom Cruise"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Jak nazywa się szkoła magii w Harrym Potterze?",
+      "answers": ["Hogwart", "Hogwarts", "Hogward", "Hogwarth"],
+      "correctIndex": 1
+    },
+    {
+      "question": "W jakim serialu występuje postać Waltera White’a?",
+      "answers": ["Narcos", "Breaking Bad", "Dexter", "The Wire"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Który film zdobył Oscara za najlepszy film w 2020 roku?",
+      "answers": ["Joker", "Parasite", "1917", "Once Upon a Time in Hollywood"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Jak nazywa się fikcyjny kontynent w Grze o Tron?",
+      "answers": ["Narnia", "Westeros", "Middle-earth", "Essos"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Który aktor zagrał Forresta Gumpa?",
+      "answers": ["Tom Hanks", "Matt Damon", "Robin Williams", "Will Smith"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Ile części ma oryginalna trylogia Gwiezdnych Wojen?",
+      "answers": ["2", "3", "6", "9"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Jak nazywa się statek Hana Solo?",
+      "answers": ["Enterprise", "Millennium Falcon", "Serenity", "Galactica"],
+      "correctIndex": 1
+    },
+    {
+      "question": "W jakim kraju powstał serial „Dom z papieru”?",
+      "answers": ["Meksyk", "Hiszpania", "Włochy", "Argentyna"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Kto wyreżyserował film „Incepcja”?",
+      "answers": ["Steven Spielberg", "Christopher Nolan", "James Cameron", "Ridley Scott"],
+      "correctIndex": 1
+    }
+  ],
+
+  "Sport": [
+    {
+      "question": "Ilu zawodników liczy drużyna piłkarska na boisku?",
+      "answers": ["9", "10", "11", "12"],
+      "correctIndex": 2
+    },
+    {
+      "question": "W jakim kraju odbyły się Mistrzostwa Świata 2018?",
+      "answers": ["Brazylia", "Niemcy", "Rosja", "Katar"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Ile setów trzeba wygrać, aby zwyciężyć mecz tenisowy wielkoszlemowy (mężczyźni)?",
+      "answers": ["2", "3", "4", "5"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Jak nazywa się największa impreza kolarska?",
+      "answers": ["Giro d’Italia", "Vuelta", "Tour de France", "Paris–Roubaix"],
+      "correctIndex": 2
+    },
+    {
+      "question": "W jakim sporcie zdobywa się touchdown?",
+      "answers": ["Rugby", "Futbol amerykański", "Hokej", "Koszykówka"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Ile minut trwa mecz piłki nożnej?",
+      "answers": ["80", "90", "100", "120"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Który kraj zdobył najwięcej tytułów mistrza świata w piłce nożnej?",
+      "answers": ["Niemcy", "Włochy", "Argentyna", "Brazylia"],
+      "correctIndex": 3
+    },
+    {
+      "question": "Jak nazywa się boisko do koszykówki?",
+      "answers": ["Murawa", "Kort", "Parkiet", "Lodowisko"],
+      "correctIndex": 2
+    },
+    {
+      "question": "W jakim sporcie używa się rakiety?",
+      "answers": ["Golf", "Tenis", "Boks", "Judo"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Ile kół ma rower?",
+      "answers": ["1", "2", "3", "4"],
+      "correctIndex": 1
+    }
+  ],
+
+  "Geografia": [
+    {
+      "question": "Jaka jest stolica Francji?",
+      "answers": ["Berlin", "Madryt", "Paryż", "Rzym"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Który ocean jest największy?",
+      "answers": ["Atlantycki", "Indyjski", "Arktyczny", "Spokojny"],
+      "correctIndex": 3
+    },
+    {
+      "question": "W jakim kraju leży Tokio?",
+      "answers": ["Chiny", "Korea", "Japonia", "Tajlandia"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Który kontynent jest najmniejszy?",
+      "answers": ["Europa", "Australia", "Antarktyda", "Ameryka Południowa"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Jaką walutą płaci się w Niemczech?",
+      "answers": ["Marka", "Euro", "Frank", "Korona"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Najdłuższa rzeka świata to:",
+      "answers": ["Nil", "Amazonka", "Jangcy", "Missisipi"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Ile jest kontynentów?",
+      "answers": ["5", "6", "7", "8"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Który kraj ma kształt buta?",
+      "answers": ["Grecja", "Hiszpania", "Włochy", "Portugalia"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Mount Everest leży w:",
+      "answers": ["Indiach", "Nepalu", "Bhutanie", "Chinach"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Morze Bałtyckie jest morzem:",
+      "answers": ["otwartym", "zamkniętym", "śródziemnym", "wewnętrznym"],
+      "correctIndex": 3
+    }
+  ],
+
+  "Wiedza ogólna": [
+    {
+      "question": "Ile dni ma rok przestępny?",
+      "answers": ["365", "366", "364", "367"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Które zwierzę jest symbolem Polski?",
+      "answers": ["Wilk", "Orzeł", "Lew", "Żubr"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Jak nazywa się największy ssak na świecie?",
+      "answers": ["Słoń", "Płetwal błękitny", "Rekin wielorybi", "Hipopotam"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Który kolor powstaje z połączenia niebieskiego i żółtego?",
+      "answers": ["Fioletowy", "Zielony", "Pomarańczowy", "Brązowy"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Ile wynosi 5 × 6?",
+      "answers": ["25", "30", "35", "40"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Jak nazywa się osoba pisząca książki?",
+      "answers": ["Redaktor", "Autor", "Wydawca", "Drukarz"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Który miesiąc ma 28 dni?",
+      "answers": ["Luty", "Styczeń", "Każdy", "Tylko w przestępnym"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Co mierzy termometr?",
+      "answers": ["Ciśnienie", "Temperaturę", "Wilgotność", "Prędkość"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Ile godzin ma doba?",
+      "answers": ["12", "18", "24", "48"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Które zwierzę znosi jajka?",
+      "answers": ["Krowa", "Pies", "Kura", "Delfin"],
+      "correctIndex": 2
+    }
+  ],
+
+  "Ortografia": [
+    {
+      "question": "Która forma jest poprawna?",
+      "answers": ["chcem", "hcem", "chcę", "hcę"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Poprawna forma to:",
+      "answers": ["wogóle", "w ogóle", "wogule", "wo gule"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Które słowo zapisano poprawnie?",
+      "answers": ["napewno", "na pewno", "napew no", "na-pewno"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Poprawna forma to:",
+      "answers": ["niezbyt", "nie zbyt", "nie-zbyt", "niez byt"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Które słowo jest poprawne?",
+      "answers": ["bynajmniej", "przynajmniej", "bynamniej", "przynajmiej"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Poprawny zapis:",
+      "answers": ["z powrotem", "spowrotem", "zpowrotem", "s powrotem"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Która forma jest poprawna?",
+      "answers": ["codziennie", "co dziennie", "co-dziennie", "codzieny"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Poprawny zapis to:",
+      "answers": ["na razie", "narazie", "na-razie", "naraz ie"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Które słowo zapisano poprawnie?",
+      "answers": ["wziąść", "wziąźć", "wziąć", "wziąśći"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Poprawna forma:",
+      "answers": ["poszedłem", "poszłem", "poszedłemem", "poszłemem"],
+      "correctIndex": 0
+    }
+  ]
+}
