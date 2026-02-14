@@ -1,0 +1,43 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Quiz Game Questions",
+  "description": "A schema for a collection of quiz questions organized by category.",
+  "type": "object",
+  "patternProperties": {
+    "^.*$": {
+      "type": "array",
+      "description": "A list of questions for a specific category.",
+      "items": {
+        "type": "object",
+        "properties": {
+          "question": {
+            "type": "string",
+            "description": "The question text."
+          },
+          "answers": {
+            "type": "array",
+            "description": "An array of exactly 4 possible answers.",
+            "items": {
+              "type": "string"
+            },
+            "minItems": 4,
+            "maxItems": 4
+          },
+          "correctIndex": {
+            "type": "integer",
+            "description": "The index of the correct answer in the 'answers' array (0-based).",
+            "minimum": 0,
+            "maximum": 3
+          }
+        },
+        "required": [
+          "question",
+          "answers",
+          "correctIndex"
+        ],
+        "additionalProperties": false
+      }
+    }
+  },
+  "additionalProperties": false
+}
